@@ -1,0 +1,9 @@
+
+Login Halaman Admin :
+	email : gandhisetyawan1@gmail.com
+	pass  : qwerty
+
+Login Halaman User :
+	email : gandhisetyawan1.gs@gmail.com
+	pass  : qwerty
+
